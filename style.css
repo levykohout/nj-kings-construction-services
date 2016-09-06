@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	color: blue;
+}
+nav {
+	text-align: center;
+}
+nav li {
+	display: inline-block;
+	text-align: center;
+	padding: 5px;
+	margin: 10px;
+	border: 3px solid black;
+	border-radius: 4px;
+	float:right;
+	background-color:green;
+}
+
+body {
+	width:80%;
+	margin:0 auto;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
